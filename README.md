@@ -11,6 +11,7 @@
   *  Home.js
   * Detail.js
   * Toast.js
+  * Navbar.js
 - Two Components:-
   * Magic.js
   * Boxes.js
